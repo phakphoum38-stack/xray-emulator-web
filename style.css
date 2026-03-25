@@ -1,0 +1,23 @@
+body{
+    background:#111;
+    color:white;
+    text-align:center;
+    font-family:Arial;
+}
+
+.scanner{
+    width:400px;
+    margin:auto;
+    border:5px solid #0ff;
+}
+
+.scanner img{
+    width:100%;
+    filter:grayscale(100%);
+}
+
+button{
+    padding:15px;
+    font-size:18px;
+    margin-top:20px;
+}
